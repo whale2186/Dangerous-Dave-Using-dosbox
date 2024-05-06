@@ -7,7 +7,8 @@ for Linux
 
 install DOXBOX
 
-for Debian Based: `sudo apt install dosbox`  
+for Debian Based: `sudo apt install dosbox`
+
 for arch based: `sudo pacman -S doxbox`
 
 and follow the steps

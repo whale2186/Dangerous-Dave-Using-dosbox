@@ -1,1 +1,1 @@
-bin/dosbox-linm/dosbox bin/game/DAVE.EXE
+dosbox bin/game/DAVE.EXE

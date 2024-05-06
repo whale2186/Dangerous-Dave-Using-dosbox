@@ -1,0 +1,1 @@
+bin/dosbox-win/dosbox.exe bin/game/DAVE.EXE
